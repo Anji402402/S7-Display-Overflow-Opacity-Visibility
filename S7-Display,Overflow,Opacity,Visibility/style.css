@@ -1,0 +1,50 @@
+
+#BrSharathPic{
+    width: 350px;
+    height: 300px;
+    opacity: 0.3;   
+}
+#MillerPic{
+    width:350px ;    
+}
+#GillPic{
+    width: 350px;
+}
+#MillerDesc{
+    display:inline-block;
+    width: 950px;
+    height: 100px;
+    text-align: justify;
+    overflow:auto;
+    padding: 30px;
+}
+#BrSharathDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 200px; 
+    text-align: justify;
+    overflow: auto;    
+}
+#GillDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 200px; 
+    text-align: justify;
+    overflow: auto; 
+}
+#MillerHeading{
+    text-align: left;
+    width: 1250px;
+    
+}
+#mainHanding{
+    background-color: #2a2725;
+    text-align: center;
+    color:rgb(222, 31, 31);
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid white;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px rgb(27, 20, 16);
+    text-shadow: 10px 10px 10px;
+}
